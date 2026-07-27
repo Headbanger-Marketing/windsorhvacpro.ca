@@ -1,0 +1,285 @@
+{
+  "domain": "windsorhvacpro.ca",
+  "origin_ip": "152.53.124.236",
+  "title": "Windsor HVAC Pro - Heating & Cooling Repair Windsor ON",
+  "blocks": [
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Reliable Heating & Cooling Specialists in Windsor, Ontario",
+      "chars": 58
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Whether you’re dealing with extreme winter cold or summer humidity, our trusted HVAC professionals provide complete HVAC solutions designed for long-term comfort and reliability. From preventative care to complex HVAC repair , we help your home stay comfortable and your system running efficiently all year.",
+      "chars": 307
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "100% Satisfaction Guaranteed",
+      "chars": 28
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Complete Heating and Cooling Services in Windsor, Ontario",
+      "chars": 57
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "At Windsor HVAC Pro , your comfort comes first. As a family-owned HVAC company proudly serving Windsor and surrounding communities, we’ve built our reputation by delivering dependable heating and cooling solutions backed by experience, integrity, and care. Homeowners trust our team for responsive support, honest recommendations, and expert HVAC workmanship that keeps every heating or cooling system performing at its best.",
+      "chars": 425
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "From fast emergency repairs to planned upgrades, Windsor HVAC Pro delivers comprehensive heating and air conditioning services tailored to your home or business. Our skilled team handles everything from minor adjustments to full HVAC installation, ensuring dependable comfort in every season.",
+      "chars": 292
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Comprehensive HVAC Services for Homes & Businesses",
+      "chars": 50
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "We offer a full suite of air conditioning services to ensure your property remains a sanctuary regardless of the weather outside.",
+      "chars": 129
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Expert AC Diagnostic & Repair",
+      "chars": 29
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "When the summer heat hits, you can’t afford a malfunctioning cooling system. We provide a precision air conditioner repair service for all makes and models, focusing on restoring efficiency to your air conditioning unit.",
+      "chars": 220
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Reliable Heating & Furnace Repair",
+      "chars": 33
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Winter in Windsor is unforgiving. Our technicians are experts in furnace repair, ensuring your heat pump operates safely and reliably when the temperature drops. If your old unit is beyond help, we can even assist with a new furnace installation.",
+      "chars": 246
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Preventative HVAC Maintenance",
+      "chars": 29
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "The best way to avoid an emergency repair is through regular maintenance. We offer comprehensive ac maintenance and maintenance services for your furnace and ac to prevent breakdowns and lower your monthly energy bills.",
+      "chars": 219
+    },
+    {
+      "tag": "h2",
+      "kind": "faq_question",
+      "text": "Why Choose Windsor HVAC Pro?",
+      "chars": 28
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We combine decades of experience with a commitment to reliable service and long-term results. When you work with our team, you benefit from knowledgeable HVAC experts who understand local climate demands and deliver dependable results every time.",
+      "chars": 246
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Clear, Honest Recommendations",
+      "chars": 29
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We assess your equipment, explain your options, and provide straightforward guidance—whether you need routine care or urgent emergency HVAC support.",
+      "chars": 148
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Skilled Workmanship You Can Trust",
+      "chars": 33
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Our licensed technicians and certified technicians deliver precise, careful work on every project. From inspections to complex upgrades, we provide professional HVAC solutions performed with attention to detail and respect for your home.",
+      "chars": 237
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Our team provides routine HVAC maintenance and responsive emergency repair services to keep systems performing safely and efficiently. You’ll always receive prompt expert service and dependable emergency service when comfort can’t wait.",
+      "chars": 236
+    },
+    {
+      "tag": "h2",
+      "kind": "review_heading",
+      "text": "What Windsor Homeowners Are Saying",
+      "chars": 34
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Fast response and outstanding local HVAC service when our system stopped working in winter. Truly professional from start to finish.”",
+      "chars": 134
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“They helped us upgrade our heating or cooling equipment with honest service, practical advice and no pressure. Excellent experience.”",
+      "chars": 134
+    },
+    {
+      "tag": "p",
+      "kind": "review",
+      "text": "“Reliable team for both home and commercial HVAC projects. Knowledgeable, fair pricing, courteous, and thorough every time.”",
+      "chars": 124
+    },
+    {
+      "tag": "h2",
+      "kind": "heading",
+      "text": "Ready to Handle Any HVAC Issue",
+      "chars": 30
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "No matter the size or complexity of the job, Windsor HVAC Pro delivers dependable service you can trust. From minor adjustments to complete system upgrades, our HVAC technicians ensure your comfort equipment operates safely and efficiently year-round. Proudly Serving Windsor, Ontario and Surrounding Areas",
+      "chars": 306
+    },
+    {
+      "tag": "h2",
+      "kind": "blog_heading",
+      "text": "Latest News & Home Comfort Tips",
+      "chars": 31
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Explore our latest articles to help you maintain your air quality and recognize when it’s time to call in the pros.",
+      "chars": 115
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "Why Annual Heating Inspections Save You Money on Repair Bills",
+      "chars": 61
+    },
+    {
+      "tag": "h3",
+      "kind": "blog_heading",
+      "text": "Slash Your Energy Bills: Smart Heating & Cooling Tips for Windsor Homes",
+      "chars": 71
+    },
+    {
+      "tag": "h3",
+      "kind": "heading",
+      "text": "When to Call for Emergency Windsor HVAC Pro vs. Simple DIY Fixes",
+      "chars": 64
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "How quickly can I get furnace repair in Windsor, Ontario?",
+      "chars": 57
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "We offer fast response times and prioritize urgent heating issues to restore comfort as quickly as possible.",
+      "chars": 108
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "What AC repair services do you provide in Windsor, Ontario?",
+      "chars": 59
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We handle diagnostics, repairs, component replacement, and maintenance for both central and ductless air conditioning systems.",
+      "chars": 126
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "How can I tell if my heat pump needs repair or replacement?",
+      "chars": 59
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Common warning signs include uneven temperatures, unusual noises, or rising energy bills. We’ll inspect your system and recommend the best solution.",
+      "chars": 148
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Why is duct cleaning important?",
+      "chars": 31
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "Clean ducts improve airflow, system efficiency, and indoor air quality by removing dust, debris, and allergens.",
+      "chars": 111
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Do you repair and replace thermostats in Windsor, Ontario?",
+      "chars": 58
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "Yes. We install and service standard, programmable, and smart thermostats to improve comfort and energy efficiency.",
+      "chars": 115
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "What types of fireplaces do you install?",
+      "chars": 40
+    },
+    {
+      "tag": "p",
+      "kind": "paragraph",
+      "text": "We install gas, electric, and wood-burning fireplaces designed for safe and efficient operation.",
+      "chars": 96
+    },
+    {
+      "tag": "h3",
+      "kind": "faq_question",
+      "text": "Are ductless AC systems energy efficient?",
+      "chars": 41
+    },
+    {
+      "tag": "p",
+      "kind": "faq_answer",
+      "text": "Yes. Ductless systems provide precise heating and cooling while reducing energy loss associated with traditional ductwork.",
+      "chars": 122
+    }
+  ],
+  "text_chars": 5354,
+  "paragraph_chars": 4372
+}
