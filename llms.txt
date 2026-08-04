@@ -20,6 +20,8 @@ Service areas: Windsor, LaSalle, Tecumseh, Amherstburg, Leamington, Lakeshore, B
 - [Duct Cleaning](https://windsorhvacpro.ca/services/duct-cleaning/): Duct Cleaning in Windsor, Ontario
 - [Thermostats](https://windsorhvacpro.ca/services/thermostat-repair-replacement/): Thermostats in Windsor, Ontario
 - [Ductless AC Installation](https://windsorhvacpro.ca/services/ductless-ac-installation/): Ductless AC Installation in Windsor, Ontario
+- [Fireplace Installation](https://windsorhvacpro.ca/services/fireplace-installation/): Fireplace Installation in Windsor, Ontario
+- [Boiler Service](https://windsorhvacpro.ca/services/boiler-service/): Boiler Service in Windsor, Ontario
 
 ## FAQ
 
